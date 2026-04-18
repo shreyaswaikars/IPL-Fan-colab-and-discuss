@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+server/data/guests.json
+*.log
+.DS_Store
+.vite/

@@ -1,0 +1,1 @@
+Build a platform that enables fans to form meaningful connections around shared team loyalties or match experiences. The system should center interactions around live or recent match events, enabling fans to react, discuss, and collaborate in context.

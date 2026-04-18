@@ -1,0 +1,385 @@
+[
+  {
+    "id": "ipl-2026-01",
+    "status": "LIVE",
+    "venue": "Wankhede Stadium, Mumbai",
+    "date": "2026-04-18",
+    "time": "19:30 IST",
+    "team1": {
+      "id": "MI",
+      "name": "Mumbai Indians",
+      "shortName": "MI",
+      "score": 187,
+      "wickets": 4,
+      "overs": 20,
+      "innings": 1
+    },
+    "team2": {
+      "id": "CSK",
+      "name": "Chennai Super Kings",
+      "shortName": "CSK",
+      "score": 143,
+      "wickets": 5,
+      "overs": 16.3,
+      "innings": 2
+    },
+    "battingTeam": "CSK",
+    "bowlingTeam": "MI",
+    "inningsCompleted": 1,
+    "target": 188,
+    "currentOver": {
+      "overNo": 17,
+      "balls": ["1", "4", "W", "0", "6"]
+    },
+    "crr": 8.67,
+    "rrr": 12.6,
+    "result": null,
+    "fanCount": 312,
+    "events": [
+      {
+        "id": "e1",
+        "type": "SIX",
+        "over": "16.4",
+        "player": "MS Dhoni",
+        "team": "CSK",
+        "description": "Dhoni clears the long-on fence with a trademark helicopter shot! The crowd goes wild!"
+      },
+      {
+        "id": "e2",
+        "type": "WICKET",
+        "over": "16.2",
+        "player": "Ravindra Jadeja",
+        "team": "CSK",
+        "description": "Jadeja c. Rohit Sharma b. Jasprit Bumrah for 38. Big blow for CSK!"
+      },
+      {
+        "id": "e3",
+        "type": "FOUR",
+        "over": "15.6",
+        "player": "MS Dhoni",
+        "team": "CSK",
+        "description": "Dhoni chips it over the infield for a boundary!"
+      },
+      {
+        "id": "e4",
+        "type": "WICKET",
+        "over": "14.4",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "description": "Gaikwad c. Suryakumar Yadav b. Hardik Pandya for 64. CSK lose their opener!"
+      },
+      {
+        "id": "e5",
+        "type": "FIFTY",
+        "over": "13.2",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "description": "Ruturaj Gaikwad brings up his half-century off 38 balls! Classy knock!"
+      },
+      {
+        "id": "e6",
+        "type": "SIX",
+        "over": "12.5",
+        "player": "Shivam Dube",
+        "team": "CSK",
+        "description": "Dube sends it into the upper tier at Wankhede! What a hit!"
+      },
+      {
+        "id": "e7",
+        "type": "WICKET",
+        "over": "10.1",
+        "player": "Devon Conway",
+        "team": "CSK",
+        "description": "Conway lbw b. Piyush Chawla for 28. Mumbai Indians fight back!"
+      },
+      {
+        "id": "e8",
+        "type": "OVER_COMPLETE",
+        "over": "16.0",
+        "player": null,
+        "team": null,
+        "description": "End of over 16: CSK 136/4. Need 52 off 24 balls."
+      }
+    ],
+    "innings1Summary": {
+      "team": "MI",
+      "score": 187,
+      "wickets": 4,
+      "overs": 20,
+      "topScorer": "Rohit Sharma 78(47)",
+      "topBowler": "Ravindra Jadeja 2/28"
+    }
+  },
+  {
+    "id": "ipl-2026-02",
+    "status": "LIVE",
+    "venue": "Eden Gardens, Kolkata",
+    "date": "2026-04-18",
+    "time": "15:30 IST",
+    "team1": {
+      "id": "KKR",
+      "name": "Kolkata Knight Riders",
+      "shortName": "KKR",
+      "score": 0,
+      "wickets": 0,
+      "overs": 0,
+      "innings": 1
+    },
+    "team2": {
+      "id": "RCB",
+      "name": "Royal Challengers Bengaluru",
+      "shortName": "RCB",
+      "score": 0,
+      "wickets": 0,
+      "overs": 0,
+      "innings": 0
+    },
+    "battingTeam": "KKR",
+    "bowlingTeam": "RCB",
+    "inningsCompleted": 0,
+    "target": null,
+    "currentOver": {
+      "overNo": 1,
+      "balls": ["W", "4", "6", "1"]
+    },
+    "crr": 0,
+    "rrr": null,
+    "result": null,
+    "fanCount": 198,
+    "events": [
+      {
+        "id": "e9",
+        "type": "SIX",
+        "over": "0.3",
+        "player": "Phil Salt",
+        "team": "KKR",
+        "description": "Salt launches the first six of the innings! A massive hit over mid-wicket!"
+      },
+      {
+        "id": "e10",
+        "type": "WICKET",
+        "over": "0.1",
+        "player": "Sunil Narine",
+        "team": "KKR",
+        "description": "First ball drama! Narine edged behind to the keeper. Mohammed Siraj strikes!"
+      },
+      {
+        "id": "e11",
+        "type": "FOUR",
+        "over": "0.2",
+        "player": "Phil Salt",
+        "team": "KKR",
+        "description": "Salt responds immediately! Through the covers for a beautiful boundary."
+      },
+      {
+        "id": "e12",
+        "type": "MATCH_START",
+        "over": "0.0",
+        "player": null,
+        "team": null,
+        "description": "KKR vs RCB is underway at the iconic Eden Gardens! KKR won the toss and elected to bat."
+      }
+    ],
+    "innings1Summary": null
+  },
+  {
+    "id": "ipl-2026-03",
+    "status": "COMPLETED",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "date": "2026-04-17",
+    "time": "19:30 IST",
+    "team1": {
+      "id": "CSK",
+      "name": "Chennai Super Kings",
+      "shortName": "CSK",
+      "score": 196,
+      "wickets": 5,
+      "overs": 20,
+      "innings": 1
+    },
+    "team2": {
+      "id": "SRH",
+      "name": "Sunrisers Hyderabad",
+      "shortName": "SRH",
+      "score": 178,
+      "wickets": 9,
+      "overs": 20,
+      "innings": 2
+    },
+    "battingTeam": null,
+    "bowlingTeam": null,
+    "inningsCompleted": 2,
+    "target": 197,
+    "currentOver": null,
+    "crr": null,
+    "rrr": null,
+    "result": "CSK won by 18 runs",
+    "fanCount": 0,
+    "events": [
+      {
+        "id": "e13",
+        "type": "MATCH_END",
+        "over": "20.0",
+        "player": null,
+        "team": "CSK",
+        "description": "CSK win by 18 runs! Brilliant bowling by Matheesha Pathirana seals the deal!"
+      },
+      {
+        "id": "e14",
+        "type": "CENTURY",
+        "over": "17.3",
+        "player": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "description": "CENTURY! Ruturaj Gaikwad brings up a magnificent 100 off 58 balls! The Chennai crowd is on its feet!"
+      },
+      {
+        "id": "e15",
+        "type": "WICKET",
+        "over": "19.4",
+        "player": "Heinrich Klaasen",
+        "team": "SRH",
+        "description": "Klaasen c. Dhoni b. Pathirana for 52. SRH's last hope gone!"
+      }
+    ],
+    "innings1Summary": {
+      "team": "CSK",
+      "score": 196,
+      "wickets": 5,
+      "overs": 20,
+      "topScorer": "Ruturaj Gaikwad 103(62)",
+      "topBowler": "T Natarajan 2/34"
+    }
+  },
+  {
+    "id": "ipl-2026-04",
+    "status": "COMPLETED",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "date": "2026-04-16",
+    "time": "19:30 IST",
+    "team1": {
+      "id": "GT",
+      "name": "Gujarat Titans",
+      "shortName": "GT",
+      "score": 154,
+      "wickets": 8,
+      "overs": 20,
+      "innings": 1
+    },
+    "team2": {
+      "id": "RR",
+      "name": "Rajasthan Royals",
+      "shortName": "RR",
+      "score": 155,
+      "wickets": 3,
+      "overs": 18.2,
+      "innings": 2
+    },
+    "battingTeam": null,
+    "bowlingTeam": null,
+    "inningsCompleted": 2,
+    "target": 155,
+    "currentOver": null,
+    "crr": null,
+    "rrr": null,
+    "result": "RR won by 7 wickets",
+    "fanCount": 0,
+    "events": [
+      {
+        "id": "e16",
+        "type": "MATCH_END",
+        "over": "18.2",
+        "player": null,
+        "team": "RR",
+        "description": "Rajasthan Royals cruise to victory with 10 balls to spare! Sanju Samson's 68* guides RR home."
+      },
+      {
+        "id": "e17",
+        "type": "FIFTY",
+        "over": "14.1",
+        "player": "Sanju Samson",
+        "team": "RR",
+        "description": "Sanju Samson brings up his fifty off 34 balls. Captain's knock!"
+      }
+    ],
+    "innings1Summary": {
+      "team": "GT",
+      "score": 154,
+      "wickets": 8,
+      "overs": 20,
+      "topScorer": "Shubman Gill 61(44)",
+      "topBowler": "Yuzvendra Chahal 3/28"
+    }
+  },
+  {
+    "id": "ipl-2026-05",
+    "status": "UPCOMING",
+    "venue": "PCA Stadium, Mohali",
+    "date": "2026-04-19",
+    "time": "15:30 IST",
+    "team1": {
+      "id": "PBKS",
+      "name": "Punjab Kings",
+      "shortName": "PBKS",
+      "score": null,
+      "wickets": null,
+      "overs": null,
+      "innings": 0
+    },
+    "team2": {
+      "id": "DC",
+      "name": "Delhi Capitals",
+      "shortName": "DC",
+      "score": null,
+      "wickets": null,
+      "overs": null,
+      "innings": 0
+    },
+    "battingTeam": null,
+    "bowlingTeam": null,
+    "inningsCompleted": 0,
+    "target": null,
+    "currentOver": null,
+    "crr": null,
+    "rrr": null,
+    "result": null,
+    "fanCount": 0,
+    "events": [],
+    "innings1Summary": null
+  },
+  {
+    "id": "ipl-2026-06",
+    "status": "UPCOMING",
+    "venue": "BRSABV Ekana Cricket Stadium, Lucknow",
+    "date": "2026-04-19",
+    "time": "19:30 IST",
+    "team1": {
+      "id": "LSG",
+      "name": "Lucknow Super Giants",
+      "shortName": "LSG",
+      "score": null,
+      "wickets": null,
+      "overs": null,
+      "innings": 0
+    },
+    "team2": {
+      "id": "MI",
+      "name": "Mumbai Indians",
+      "shortName": "MI",
+      "score": null,
+      "wickets": null,
+      "overs": null,
+      "innings": 0
+    },
+    "battingTeam": null,
+    "bowlingTeam": null,
+    "inningsCompleted": 0,
+    "target": null,
+    "currentOver": null,
+    "crr": null,
+    "rrr": null,
+    "result": null,
+    "fanCount": 0,
+    "events": [],
+    "innings1Summary": null
+  }
+]

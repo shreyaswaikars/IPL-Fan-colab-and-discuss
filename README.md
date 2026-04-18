@@ -2,7 +2,7 @@
 
 A production-grade, real-time IPL fan engagement platform featuring live match tracking, interactive community chat, and AI-driven commentary.
 
-![IPL Fan Zone Preview](https://via.placeholder.com/800x450/080c14/6366f1?text=IPL+Fan+Zone+Live+2026)
+![IPL Fan Zone Preview](docs/screenshots/preview.png)
 
 ## 🚀 Features
 

@@ -45,7 +45,7 @@ A production-grade, real-time IPL fan engagement platform featuring live match t
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-username/ipl-fan-zone.git
+git clone https://github.com/shreyaswaikars/IPL-Fan-colab-and-discuss.git
 cd ipl-fan-zone
 npm run install:all
 ```

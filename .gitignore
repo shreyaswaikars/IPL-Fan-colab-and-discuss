@@ -5,3 +5,4 @@ server/data/guests.json
 *.log
 .DS_Store
 .vite/
+key.json

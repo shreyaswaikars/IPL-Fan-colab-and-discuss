@@ -35,6 +35,15 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
+// Serve static client files in production
+const clientDistPath = path.join(__dirname, '../client/dist');
+app.use(express.static(clientDistPath));
+
+// Fallback for React Router
+app.get('*', (req, res) => {
+  res.sendFile(path.join(clientDistPath, 'index.html'));
+});
+
 // Socket.io
 io.on('connection', (socket) => {
   console.log(`[Socket] Fan connected: ${socket.id}`);
